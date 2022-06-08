@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### My projects & Libraries
+   
+### Contributions
+
+### Kaggle Competitions
+   
+### Dacon Competitions
+   
+### Contact   
+
+
 I'm intersted in and learning:  
 
 - Data Analytics for Business Intelligence
