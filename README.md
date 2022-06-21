@@ -7,9 +7,9 @@ My name is Yoonseong and I'm intersted in & currently learning:
 ### My projects & Libraries
    
 ### Professional Experience & Contributions
-- Cross-Border Capital Management Inc.
-- United Nations Development Programme
-- United Nations Secretariat
+- Cross-Border Capital Management Inc. 
+- United Nations Development Programme 🇺🇳
+- United Nations Secretariat 🇺🇳
 
 ### Kaggle & Dacon Competitions
 
