@@ -14,10 +14,9 @@
 I'm intersted in and learning:  
 
 - Data Analytics for Business Intelligence
-![image](https://user-images.githubusercontent.com/13503133/167975772-7e6088da-0ead-4b04-8eca-520822b809a2.png){: width="500" height="200"}
+![image](https://user-images.githubusercontent.com/13503133/167975772-7e6088da-0ead-4b04-8eca-520822b809a2.png =250x)
 - Data Engineering & Streaming Data Processing
-![image](https://user-images.githubusercontent.com/13503133/167975886-e2f62f4f-0933-4ce0-bd64-e2c2f702c076.png){: width="500" height="200"}
-
+![image](https://user-images.githubusercontent.com/13503133/167975886-e2f62f4f-0933-4ce0-bd64-e2c2f702c076.png =250x)
 
 <!--
 **ohikendoit/ohikendoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
