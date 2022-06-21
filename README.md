@@ -5,11 +5,15 @@ My name is Yoonseong and I'm intersted in & currently learning:
 - Data Analysis & Streaming Data Processing
 
 ### My projects & Libraries
-   
+- AWS-based Industrial Business Intelligence System for Gyeonggi Free Economic Zone (GGFEZ)
+- Information Extraction for Private Sector Engagement in Disaster Risk Reduction for Connecting Business Initiative (CBi)
+- Analytics Report on the Journey through 2015-2020 for Business Call to Action (BCtA)
+- UNDP IICPSD Business Intelligence Dashboard
+
 ### Professional Experience & Contributions
-- Cross-Border Capital Management Inc. 
-- United Nations Development Programme 🇺🇳
-- United Nations Secretariat 🇺🇳
+- Data Analytics Specialist @ Cross-Border Capital Management Inc. 
+- Junior Data Science Officer @ United Nations Development Programme 🇺🇳
+- Data Analytics & BI Intern @ United Nations Secretariat 🇺🇳
 
 ### Kaggle & Dacon Competitions
 
