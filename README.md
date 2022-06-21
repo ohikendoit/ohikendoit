@@ -1,20 +1,21 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Yoonseong and I'm intersted in & currently learning:  
+- Data Engineering for Analytics/Business Intelligence
+- Data Analysis & Streaming Data Processing
 
 ### My projects & Libraries
    
-### Contributions
+### Professional Experience & Contributions
+- Cross-Border Capital Management Inc.
+- United Nations Development Programme
+- United Nations Secretariat
 
-### Kaggle Competitions
-   
-### Dacon Competitions
-   
+### Kaggle & Dacon Competitions
+
 ### Contact   
-
-
-I'm intersted in and learning:  
-
-- Data Analytics for Business Intelligence
-- Data Engineering & Streaming Data Processing
+Please feel free to contact me
+ohikendoit@gmail.com
 
 <!--
 **ohikendoit/ohikendoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
