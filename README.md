@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 My name is Yoonseong and I'm intersted in & currently learning:  
-- Data Engineering for Analytics/Business Intelligence
+- Data Engineering for Analytics / Business Intelligence
 - Data Analysis & Streaming Data Processing
 
 ### My projects & Libraries
