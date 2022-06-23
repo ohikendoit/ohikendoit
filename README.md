@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Yoonseong and I'm intersted in & currently learning:  
+My name is Yoonseong and I'm intersted in & actively learning:  
 - Data Engineering for Analytics / Business Intelligence
 - Data Analysis & Streaming Data Processing
 
@@ -8,7 +8,7 @@ My name is Yoonseong and I'm intersted in & currently learning:
 - AWS-based Industrial Business Intelligence System for Gyeonggi Free Economic Zone (GGFEZ)
 - Information Extraction for Private Sector Engagement in Disaster Risk Reduction for Connecting Business Initiative (CBi)
 - Analytics Report on the Journey through 2015-2020 for Business Call to Action (BCtA)
-- UNDP IICPSD Business Intelligence Dashboard
+- UNDP Istanbul International Center for Private Sector in Development (IICPSD) Business Intelligence / KPI Dashboard
 
 ### Professional Experience & Contributions
 - Data Analytics Specialist @ Cross-Border Capital Management Inc. 
@@ -16,6 +16,9 @@ My name is Yoonseong and I'm intersted in & currently learning:
 - Data Analytics & BI Intern @ United Nations Secretariat 🇺🇳
 
 ### Kaggle & Dacon Competitions
+- “Sensor-based Temperature Prediction Model”: Keras-based LSTM Model for temperature prediction
+- “TensorFlow-based BERT Models for Machine Reading Comprehension”
+- “Creating a Fine-Dust Retail Index based on Deep Neural Network”
 
 ### Contact   
 Please feel free to contact me
