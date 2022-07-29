@@ -1,10 +1,10 @@
-### Hello there 👋
+### Hello hello! 👋
 
-My name is Yoonseong and I'm intersted in & actively learning:  
+My name is Yoonseong and I'm passionate about:  
 - Data Engineering for Analytics / Business Intelligence
 - Data Analysis & Streaming Data Processing
 
-### My projects & Libraries
+### My Projects
 - AWS-based Industrial Business Intelligence System for Gyeonggi Free Economic Zone (GGFEZ)
 - Information Extraction for Private Sector Engagement in Disaster Risk Reduction for Connecting Business Initiative (CBi)
 - Analytics Report on the Journey through 2015-2020 for Business Call to Action (BCtA)
@@ -21,7 +21,7 @@ My name is Yoonseong and I'm intersted in & actively learning:
 - “Creating a Fine-Dust Retail Index based on Deep Neural Network”
 
 ### Contact   
-Please feel free to contact me
+Please feel free to email me
 ohikendoit@gmail.com
 
 <!--
