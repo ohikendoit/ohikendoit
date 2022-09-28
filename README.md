@@ -1,6 +1,6 @@
 ### Hello hello! 👋
 
-My name is Yoonseong and I'm passionate about Data Engineering for Analytics / Business Intelligence
+My name is Yoonseong and I'm interested in Data Engineering for Analytics / Business Intelligence
 
 ### My Projects
 - AWS-based Industrial Business Intelligence System for Gyeonggi Free Economic Zone (GGFEZ)
