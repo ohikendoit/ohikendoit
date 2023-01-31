@@ -1,6 +1,6 @@
 ### Hello hello! 👋
 
-My name is Yoonseong and I'm interested in Data Engineering for Analytics / Business Intelligence
+My name is Yoonseong and I'm interested in applying data engineering for analytics & business intelligence (Analytics Engineering)
 
 ### My Projects
 - AWS-based Industrial Business Intelligence System for Gyeonggi Free Economic Zone (GGFEZ)
@@ -9,9 +9,10 @@ My name is Yoonseong and I'm interested in Data Engineering for Analytics / Busi
 - UNDP Istanbul International Center for Private Sector in Development (IICPSD) Business Intelligence / KPI Dashboard
 
 ### Professional Experience & Contributions
-- Data Analytics Specialist @ Cross-Border Capital Management Inc. 
-- Junior Data Science Officer @ United Nations Development Programme 🇺🇳
-- Data Analytics & BI Intern @ United Nations Secretariat 🇺🇳
+- HR Data Management @ Coupang Fulfillment Services
+- Data Analytics Specialist @ Cross-Border Capital Management 
+- Junior Data Science Officer @ United Nations Development Programme
+- Data Analytics & BI Intern @ United Nations Secretariat
 
 ### Kaggle & Dacon Competitions
 - “Sensor-based Temperature Prediction Model”: Keras-based LSTM Model for temperature prediction
@@ -19,7 +20,7 @@ My name is Yoonseong and I'm interested in Data Engineering for Analytics / Busi
 - “Creating a Fine-Dust Retail Index based on Deep Neural Network”
 
 ### Contact   
-Please feel free to email me
+Feel free to reach me
 ohikendoit@gmail.com
 
 <!--
