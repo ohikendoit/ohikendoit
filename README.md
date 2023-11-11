@@ -1,6 +1,6 @@
 Hello, my name is Yoonseong and I'm interested in business intelligence & analytics engineering
 
-### My Projects
+### Projects
 - Industrial Business Intelligence System, Gyeonggi Free Economic Zone (GGFEZ)
 - Information Extraction for Private Sector Engagement in Disaster Risk Reduction, Connecting Business Initiative (CBi)
 - Interactive Analytics Report, Business Call to Action (BCtA)
